@@ -1,0 +1,30 @@
+_repo: Monsieur-Bergeret-a-Paris-Histoire-Contemporaine_7268
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Jacques-Anatole-François
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7268'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Intellectual life -- 19th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Antisemitism -- France -- Fiction'
+- !lcsh 'Middle class -- France -- Paris -- Intellectual life -- 19th century -- Fiction'
+title: 'Monsieur Bergeret à Paris: Histoire Contemporaine'
+url: http://www.gutenberg.org/ebooks/7268
